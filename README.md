@@ -1,2 +1,2 @@
 # arcaitemresprites
-Mindustry resprites based on my other mod, now made separate. ITEMS ONLY. Fully compatible with ereniummod.
+Mindustry resprites based on my other mod, now made separate. ITEMS ONLY. Fully compatible with ereniummod. Includes liquids (eventually)

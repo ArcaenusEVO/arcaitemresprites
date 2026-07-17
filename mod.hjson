@@ -1,0 +1,8 @@
+name: arcaitemresprites
+displayName:"Arcaen's Item Resprites",
+author:"[purple]arcanus_[sky]EVO / ARCAENUS",
+description:"Mod for respriting items in my own style in Mindustry. Based on the ereniummod textures, but now made separate for people who want the style and the mod at once, or just the style. Other mods will include blocks and units.",
+minGameVersion:"158",
+version:"[#00c9ff]Indev [#ff9900]0.26.1.0",
+hidden: false
+subtitle: ITEMS ONLY
